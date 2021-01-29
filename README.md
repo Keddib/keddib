@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=ozaazaa)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=keddib)](https://github.com/mohouyizme/1337-readme)
